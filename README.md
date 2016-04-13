@@ -1,6 +1,6 @@
 # 这里暂时作为记录我写程序的日志
 
-#我的想法#：利用高通的Vuforia，写一个可以把scenekit代替OpenGL，并把UserDF和Image合并，如果还可以，就把扫码融入识别的场景中（我同事用Unity实现此功能，非常地耗Cpu，iPhone 5 ，5s，6都发热得非常严重），把整个识别的VC独立出来，app其他的界面就可以分别作为TableView，或者一些瀑布流，不用局限于此app只是用来识别。
+我的想法：利用高通的Vuforia，写一个可以把scenekit代替OpenGL，并把UserDF和Image合并，如果还可以，就把扫码融入识别的场景中（我同事用Unity实现此功能，非常地耗Cpu，iPhone 5 ，5s，6都发热得非常严重），把整个识别的VC独立出来，app其他的界面就可以分别作为TableView，或者一些瀑布流，不用局限于此app只是用来识别。
 
 感谢博客http://qiita.com/akira108/items/a743138fca532ee193fe 帮我完成了最难的一部分，就是用Scenekit代替OpenGL在Vuforia上面显示，目前有日文和英文版。理解得还不是很完全，大体是知道把识别的摄像头位置赋值给Scenekit场景中，摄像头的位置。
 
