@@ -123,5 +123,6 @@ The AR in this context means reconstructing the marker's relative 3D position to
                      把扫码功能与识别场景融合（考虑是否实用）；
                      AR能用到什么地方
 
+参考了 Unity实现的方式，调用高通SDK的摄像头使用扫描二维码（其实是每1.5秒把图像传去解析），根据解析的结果而选择UserDefined 还是 ImageTarget ，因为他们在初始化的时候就已经设定了识别的数据集（图像），此项目被搁浅。
 
 陈作华的GitHub
