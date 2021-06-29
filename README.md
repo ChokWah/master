@@ -123,4 +123,4 @@ The AR in this context means reconstructing the marker's relative 3D position to
                      把扫码功能与识别场景融合（考虑是否实用）；
                      AR能用到什么地方
 
-陈作华的GitHub
+
